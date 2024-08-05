@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "nOn",
+        "ONO",
+        "nOn"
+    ],
+    "key": {
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        },
+        "N": {
+            "item": "minecraft:netherite_upgrade_smithing_template"
+        }
+    },
+    "result": {
+        "item": "minecraft:bedrock",
+        "count": 1
+    }
+}
